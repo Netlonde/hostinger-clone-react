@@ -38,3 +38,10 @@ The connection will be established at http://localhost:8080
 </ul>
 
 The application will open in the browser on http://localhost:3000
+
+For tests:
+
+login: carlos@gmail.com
+password: 123456
+
+

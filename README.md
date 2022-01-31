@@ -27,6 +27,9 @@ The connection will be established at http://localhost:8080
 
 
 # :rocket: React Installation
+
+<p>Open a new terminal tab</p>
+
 <ul>
   <li><code>$ cd ..</code></li>
   <li><code>$ cd hostinger</code></li>
